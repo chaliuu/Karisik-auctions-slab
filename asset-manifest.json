@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Karisik-auctions-slab/static/css/main.613c2791.css",
+    "main.js": "/Karisik-auctions-slab/static/js/main.efd9855b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Karisik-auctions-slab/static/js/787.28cb0dcd.chunk.js",
+    "static/media/template.svg": "/Karisik-auctions-slab/static/media/template.956bd47a5e7d30d10d0979b7947fde6c.svg",
+    "index.html": "/Karisik-auctions-slab/index.html",
+    "main.613c2791.css.map": "/Karisik-auctions-slab/static/css/main.613c2791.css.map",
+    "main.efd9855b.js.map": "/Karisik-auctions-slab/static/js/main.efd9855b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Karisik-auctions-slab/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613c2791.css",
+    "static/js/main.efd9855b.js"
+  ]
+}
